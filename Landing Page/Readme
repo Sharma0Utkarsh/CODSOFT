@@ -1,0 +1,39 @@
+Bike-Zone Landing Page
+Bike-Zone is a sleek and user-friendly platform designed to promote and explore various bike brands and models. The site emphasizes freedom, adventure, and the thrill of biking.
+
+Key Features:
+Navbar:
+
+Includes a search bar for users to quickly find bikes of their interest.
+Header Section:
+
+Engaging tagline: "Ride with Freedom."
+A short description highlighting the excitement of biking.
+A call-to-action link to explore the bikes section.
+Bike Browsing Section:
+
+Features well-known brands such as:
+Royal Enfield
+Hero
+Harley Davidson
+BMW
+Honda
+Ducati
+KTM
+Each brand is represented by a high-quality image and a link for further exploration.
+Bike Features Section:
+
+Displays three bike categories:
+Sporty Model: Emphasizes speed and agility.
+Mountain Bike: Built for tough terrains with confidence.
+Urban Cruiser: Combines style and comfort for city rides.
+Each category is accompanied by a description, an image, and a "More" button for additional details.
+Footer:
+
+Contains a copyright statement, ensuring a professional appearance.
+Technologies Used:
+HTML: Provides the structure of the webpage.
+CSS (Linked): Enhances the visual appeal and layout of the site.
+Google Fonts: Adds style and readability with the "Roboto" font.
+Purpose:
+The site serves as a digital showroom, making it easy for bike enthusiasts to explore brands, models, and features in one place. Its clean design and organized sections offer a seamless browsing experience.
