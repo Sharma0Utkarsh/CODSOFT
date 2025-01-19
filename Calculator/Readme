@@ -1,0 +1,18 @@
+Calculator Web Page
+This is a basic web-based calculator designed to perform simple arithmetic operations. It features an intuitive layout for easy usability.
+
+Key Features:
+Input Display:
+A text input box at the top displays the current calculation or result.
+Buttons:
+Operators: Includes buttons for AC (clear all), DEL (delete last entry), % (percentage), /, *, -, and +.
+Digits: Buttons for numbers 0-9 and 00.
+Decimal Point: A button to input the decimal point.
+Equal Button: Calculates and displays the result.
+Structure:
+Organized into a container and a calculator section for layout.
+Buttons are grouped for logical operation (e.g., numbers, operators).
+Technologies Used:
+HTML: Defines the structure of the calculator.
+CSS (Linked): Provides the styling, enhancing the appearance and layout.
+JavaScript (Linked): Implements functionality such as calculations and button actions
