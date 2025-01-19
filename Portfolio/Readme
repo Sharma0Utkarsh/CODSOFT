@@ -1,0 +1,23 @@
+This is a professional portfolio webpage for Utkarsh Sharma, a motivated B.Tech Computer Science student and web developer. The website features a clean and modern design, providing an overview of Utkarsh's skills, projects, and contact information.
+
+Key Features:
+Header Navigation: Includes links to Home, About, Projects, and Contact Me sections.
+Main Section:
+A welcoming message introduces Utkarsh as a web developer.
+A downloadable resume is provided for potential employers or collaborators.
+Projects Section:
+Showcases three primary projects:
+Music Player: Developed using HTML, CSS, and JavaScript.
+Currency Converter: Built with JavaScript, API integration, HTML, and CSS.
+QR Code Generator: Implemented using HTML, CSS, and JavaScript.
+Each project has an image, description, and a link to its GitHub repository.
+A note mentions future updates to the projects section.
+Footer:
+Links to Utkarsh's GitHub and LinkedIn profiles, along with a contact form.
+A copyright statement ensures professionalism.
+Technologies Used:
+Frontend: HTML, CSS, and JavaScript.
+External Resources:
+Google Fonts for typography.
+Font Awesome for icons.
+Typed.js for dynamic text effects.
